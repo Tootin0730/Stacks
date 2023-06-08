@@ -1,4 +1,4 @@
-package academy.learnprograming.Stacks;
+package academy.learnprogramming.Stacks;
 
 public class Employee {
 
